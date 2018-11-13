@@ -1,32 +1,31 @@
 Besoin:
-	Regrouper et Numériser les outils disponibles aux Joueurs et au Maître du Jeu d’une partie de Jeu de Rôle. 
-	Les outils primaires regroupent : Un gestionnaire de Fiches de Personnages, Un Dé numérique, Un générateur de récompenses.
+	Regrouper et NumÃ©riser les outils disponibles aux Joueurs et au MaÃ®tre du Jeu dâ€™une partie de Jeu de RÃ´le. 
+	Les outils primaires regroupent : Un gestionnaire de Fiches de Personnages, Un DÃ© numÃ©rique, Un gÃ©nÃ©rateur de rÃ©compenses.
 
 Acteurs:
 	-Joueur: Personne prenant part au jeu
-	-Maître du Jeu: Personne mettant en place le jeu et proposant aux Joueurs une aventure  
- à découvrir.
+	-MaÃ®tre du Jeu: Personne mettant en place le jeu et proposant aux Joueurs une aventure Ã  dÃ©couvrir.
 
 Fonctionnement:
 
-	Un jeu de rôle se base sur le principe explicite de jouer un rôle, pour aider à cela le Joueur possède une fiche détaillant les caractéristiques de son Personnage.
-Un personnage possède(pour résumer simplement) un nom, une race, une classe et des attributs qui affectent la réussite de leurs actions.
+	Un jeu de rÃ´le se base sur le principe explicite de jouer un rÃ´le, pour aider Ã  cela le Joueur possÃ¨de une fiche dÃ©taillant les caractÃ©ristiques de son Personnage.
+Un personnage possÃ¨de(pour rÃ©sumer simplement) un nom, une race, une classe et des attributs qui affectent la rÃ©ussite de leurs actions.
 
-La gestion des Fiches de Personnage se concentre sur la création de la fiche (en renseignant les caractéristiques du personnage), sa lecture ainsi que sa modification.
+La gestion des Fiches de Personnage se concentre sur la crÃ©ation de la fiche (en renseignant les caractÃ©ristiques du personnage), sa lecture ainsi que sa modification.
 
-Pour réaliser des actions, les Joueurs doivent lancer un dé et obtenir une certaine valeur pour que l’action soit validée.
+Pour rÃ©aliser des actions, les Joueurs doivent lancer un dÃ© et obtenir une certaine valeur pour que lâ€™action soit validÃ©e.
 
-Le lancé de dé doit donc être comparé à une valeur ou un taux de réussite que le joueur(dépendant du jeu) doit ou ne doit pas dépasser.
+Le lancÃ© de dÃ© doit donc Ãªtre comparÃ© Ã  une valeur ou un taux de rÃ©ussite que le joueur(dÃ©pendant du jeu) doit ou ne doit pas dÃ©passer.
 
-De nombreux types de dé existent avec chacun un nombre de faces différent,
+De nombreux types de dÃ© existent avec chacun un nombre de faces diffÃ©rent,
 
-le test de réussite se base sur un attribut du Personnage du Joueur et le Maître du Jeu peut décider d’affecter un bonus ou un malus à la valeur/le taux de réussite du test.
+le test de rÃ©ussite se base sur un attribut du Personnage du Joueur et le MaÃ®tre du Jeu peut dÃ©cider dâ€™affecter un bonus ou un malus Ã  la valeur/le taux de rÃ©ussite du test.
 
-Dépendant des actions des Joueurs, le Maître du Jeu peut décider de leur donner une récompense pour célébrer leur réussite,
+DÃ©pendant des actions des Joueurs, le MaÃ®tre du Jeu peut dÃ©cider de leur donner une rÃ©compense pour cÃ©lÃ©brer leur rÃ©ussite,
 
-ces récompenses sont souvent des pièces d’équipement pour le personnage. Ces dernières ont une incidence sur les attributs du Personnage.
+ces rÃ©compenses sont souvent des piÃ¨ces dâ€™Ã©quipement pour le personnage. Ces derniÃ¨res ont une incidence sur les attributs du Personnage.
 
-Une récompense possède donc une rareté ainsi qu’un type(équipement, nourriture…) et peut ainsi posséder des caractéristiques définies.
+Une rÃ©compense possÃ¨de donc une raretÃ© ainsi quâ€™un type(Ã©quipement, nourritureâ€¦) et peut ainsi possÃ©der des caractÃ©ristiques dÃ©finies.
 
-Pour ajouter de la profondeur au jeu, le Maître du Jeu peut décider de donner une “histoire” à un objet.
+Pour ajouter de la profondeur au jeu, le MaÃ®tre du Jeu peut dÃ©cider de donner une â€œhistoireâ€ Ã  un objet.
  
