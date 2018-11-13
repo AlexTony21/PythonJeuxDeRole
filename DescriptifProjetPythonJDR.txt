@@ -1,0 +1,32 @@
+Besoin:
+	Regrouper et Numériser les outils disponibles aux Joueurs et au Maître du Jeu d’une partie de Jeu de Rôle. 
+	Les outils primaires regroupent : Un gestionnaire de Fiches de Personnages, Un Dé numérique, Un générateur de récompenses.
+
+Acteurs:
+	-Joueur: Personne prenant part au jeu
+	-Maître du Jeu: Personne mettant en place le jeu et proposant aux Joueurs une aventure  
+ à découvrir.
+
+Fonctionnement:
+
+	Un jeu de rôle se base sur le principe explicite de jouer un rôle, pour aider à cela le Joueur possède une fiche détaillant les caractéristiques de son Personnage.
+Un personnage possède(pour résumer simplement) un nom, une race, une classe et des attributs qui affectent la réussite de leurs actions.
+
+La gestion des Fiches de Personnage se concentre sur la création de la fiche (en renseignant les caractéristiques du personnage), sa lecture ainsi que sa modification.
+
+Pour réaliser des actions, les Joueurs doivent lancer un dé et obtenir une certaine valeur pour que l’action soit validée.
+
+Le lancé de dé doit donc être comparé à une valeur ou un taux de réussite que le joueur(dépendant du jeu) doit ou ne doit pas dépasser.
+
+De nombreux types de dé existent avec chacun un nombre de faces différent,
+
+le test de réussite se base sur un attribut du Personnage du Joueur et le Maître du Jeu peut décider d’affecter un bonus ou un malus à la valeur/le taux de réussite du test.
+
+Dépendant des actions des Joueurs, le Maître du Jeu peut décider de leur donner une récompense pour célébrer leur réussite,
+
+ces récompenses sont souvent des pièces d’équipement pour le personnage. Ces dernières ont une incidence sur les attributs du Personnage.
+
+Une récompense possède donc une rareté ainsi qu’un type(équipement, nourriture…) et peut ainsi posséder des caractéristiques définies.
+
+Pour ajouter de la profondeur au jeu, le Maître du Jeu peut décider de donner une “histoire” à un objet.
+ 
