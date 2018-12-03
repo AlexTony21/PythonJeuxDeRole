@@ -77,7 +77,7 @@ print Luck
 file.write(Luck + "\n")
 print ""
 file.close()
-sql = "INSERT INTO PERSOS2(Name, Class, Level, Race, Weapon, Armor, LifePoints, MagicPoints, Physical, Strength, Dexterity, Social, Charisma, Psychology, Mental, Knowledge, Magic, Luck) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+sql = "INSERT INTO PERSOS2(Name, Class, Level, Race, Weapon, Armor, LifePoints, MagicPoints, Physical, Strength, Dexterity, Social, Charisma, Psychology, Mental, Knowledge, Magic, Luck) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 val = ("" + user_name + "", "" + user_class + "", "" + repr(user_level) + "", "" + user_race + "", "" + user_weapon + "", "" + user_armor + "", "" + repr(user_lp) + "", "" + repr(user_mp) + "", "" + repr(user_physical) + "0", "" + repr(user_strength) + "", "" + repr(user_dexterity) + "", "" + repr(user_social) + "0", "" + repr(user_charisma) + "", "" + repr(user_psychology) + "", "" + repr(user_mental) + "0", "" + repr(user_knowledge) + "", "" + repr(user_magic) + "", "" + repr(user_luck) + "")
 mycursor.execute(sql, val)
 
