@@ -44,9 +44,9 @@ def jet_specialise():
             print(glob.glob("*.json"))
             choice = raw_input("Nom du personnage: ")
             print("Quel sera la caracteristique utilisee?")
-            print("1.Physique 2.Social 3.Magie")
+            print("1.Physique 2.Social 3.Mental")
             print("4.Force 5.Dexterite 6.Charisme")
-            print("7.Psychologie 8.Mental 9.Savoir")
+            print("7.Psychologie 8.Magie 9.Savoir")
             carac = input("Votre caracteristique: ")
             faces = input("Combien de faces possede votre de?")
             dice = random.randint(1, faces)
@@ -70,7 +70,7 @@ def jet_specialise():
                     print ("Action reussie")
                 break
             elif carac == 3:
-                jet = int(file["Magic"])
+                jet = int(file["Mental"])
                 if dice > jet:
                     print ("Action ratee")
                 elif dice < jet:
@@ -105,7 +105,7 @@ def jet_specialise():
                     print ("Action reussie")
                 break
             elif carac == 8:
-                jet = int(file["Mental"])
+                jet = int(file["Magic"])
                 if dice > jet:
                     print ("Action ratee")
                 elif dice < jet:
