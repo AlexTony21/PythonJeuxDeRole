@@ -1,0 +1,22 @@
+{
+    "Salveg": {
+        "Dexterity": "2", 
+        "Strength": "5", 
+        "Magic": "7", 
+        "Name": "Salveg", 
+        "MagicPoints": "20", 
+        "Level": "1", 
+        "Armor": "Medium", 
+        "Weapon": "Katana", 
+        "LifePoints": "1", 
+        "Mental": "65", 
+        "Charisma": "3", 
+        "Race": "Half-Kobold", 
+        "Psychology": "6", 
+        "Social": "45", 
+        "Luck": 50, 
+        "Class": "Samurai", 
+        "Knowledge": "6", 
+        "Physical": "35"
+    }
+}
