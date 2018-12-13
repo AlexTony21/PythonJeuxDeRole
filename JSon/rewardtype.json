@@ -1,0 +1,24 @@
+{
+  "weapon": [
+    "sword",
+    "axe",
+    "lance",
+    "bow",
+    "katana",
+    "naginata"
+  ],
+  "armor": [
+    "silk",
+    "leather",
+    "iron",
+    "platinum",
+    "orichalcum"
+    ],
+  "accessory":[
+    "ring",
+    "bracelet",
+    "earring",
+    "necklace",
+    "collar"
+    ]
+}
