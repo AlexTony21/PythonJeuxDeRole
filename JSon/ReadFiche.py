@@ -9,7 +9,7 @@ clear()
 print(glob.glob("*.json"))
 print("Which file do you want to read ?")
 
-choice = input("Name of the file : ")
+choice = raw_input("Name of the file : ")
 clear()
 with open('{0}.json'.format(choice), 'r') as f:
     file = json.load(f)
