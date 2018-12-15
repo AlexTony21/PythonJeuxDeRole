@@ -9,6 +9,7 @@ while loop == 1:
     print("1- Run Sheet Character Creator")
     print("2- Read Characters Sheets")
     print("3- Dice Roll")
+    print("4- Reward Generator")
     while "What is your choice ?":
         n = int(input('Your choice : '))
         if n == 1:
@@ -19,6 +20,9 @@ while loop == 1:
             break
         elif n == 3:
             os.system('jet_de_de.py')
+            break
+        elif n == 4:
+            os.system('Drop.py')
             break
     print("1- Return to menu")
     print("2- Quit")
