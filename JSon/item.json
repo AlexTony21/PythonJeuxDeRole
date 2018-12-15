@@ -1,0 +1,23 @@
+{
+  "0": [
+    "sword",
+    "axe",
+    "lance",
+    "bow",
+    "katana"
+  ],
+  "1": [
+    "silk",
+    "leather",
+    "iron",
+    "platinum",
+    "orichalcum"
+    ],
+  "2":[
+    "ring",
+    "bracelet",
+    "earring",
+    "necklace",
+    "collar"
+    ]
+}
